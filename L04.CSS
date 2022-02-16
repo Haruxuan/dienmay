@@ -1,0 +1,80 @@
+.tieude {color: orangered;
+    text-align: center;
+}
+.lamkhung { text-align: center;
+    border: lightblue solid thin;
+
+}
+.dobong {
+    text-shadow: 4px 4px 2px rgba(150, 150, 150, 1);
+}
+.menu {width:auto;}
+a { text-decoration: none;
+    padding: 20px 40px;
+    display:inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+    text-align: center;
+}
+a:link {color:blue;text-decoration: none;}
+a:visited {color:blue;text-decoration: none;}
+a:hover {
+    color: red;
+    background-color: aqua;
+}
+
+.maylanh {float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: crimson solid thin;
+    padding: 2px;}
+.chongtran { clear: both;}
+.longdiv {display: flex;
+    margin: 40px;
+
+}
+.box1 {width: 250px; height:auto; background-color:white;
+    float:left;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px rgba(50, 50, 50, 0.75);
+}
+.box2 {width: 250px; height:auto; background-color:white;
+    float:left;
+    text-align: left;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+
+    margin-top: 30px;
+    margin-left: 0px;
+    margin-bottom: 30px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    -webkit-box-shadow: 7px 7px 5px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow:    7px 7px 5px rgba(50, 50, 50, 0.75);
+    box-shadow:         7px 7px 5px rgba(50, 50, 50, 0.75);
+}
+.chu{color:blue;
+    text-align: center;
+}
+.footer { 
+    background-color:beige;
+    padding: 10px;
+    color:blue;
+    margin: 40px;
+}
